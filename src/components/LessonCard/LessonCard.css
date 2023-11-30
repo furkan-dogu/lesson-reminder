@@ -1,0 +1,38 @@
+
+.lesson {
+    display: flex;
+    align-items: center;
+    flex: 30%;
+    margin: 1rem auto;
+}
+
+.lesson img {
+    width: 5rem;
+    height: 5rem;
+    border-radius: .5rem;
+}
+
+.lesson-text {
+    color: coral;
+    font-weight: 700;
+    text-align: left;
+    margin-left: .5rem;
+}
+
+.lesson-text span {
+    color: white;
+    font-weight: 300;
+}
+
+@media screen and (max-width:992px) {
+    .lesson{
+        flex: 50%;
+    }
+}
+
+@media screen and (max-width:772px) {
+    .lesson {
+        flex-direction: column;
+        flex: 100%;
+    }
+}

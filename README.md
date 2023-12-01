@@ -25,7 +25,7 @@ SOLUTION
 │    │   │   └── Header.jsx
 │    │   └── LessonCard
 │    │       ├── LessonCard.jsx
-│    │       └── lesson.module.css
+│    │       └── Lesson.css
 │    ├── helper
 │    │   └── data.js
 │    ├── pages

@@ -3,7 +3,7 @@ import data from "../../helper/data"
 
 const LessonCard = () => {
     return data.map((item) => (
-        <div className="lesson">
+        <div className="lesson" key={item.id}>
             <div>
                 <img src={item.image} alt="" />
             </div>

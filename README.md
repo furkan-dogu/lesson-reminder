@@ -8,7 +8,7 @@ Lesson Reminder Application is a web application designed with React to help use
 
 ## Live Project Link
 
-You can access the live version of the project [here](https://lesson-reminder-cyan.vercel.app/).
+You can access the live version of the project [here](https://les-rem.vercel.app/).
 
 ```
 Lesson Reminder (folder)
